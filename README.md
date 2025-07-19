@@ -3,7 +3,7 @@
 A deep learning–powered web application that detects and classifies plant diseases from leaf images to assist farmers and agriculturists in taking timely action.
 ## 🚀 Live Demo
 
-🔗 [Click here to view the hosted app](https://plant-disease-detection-system-v.streamlit.app/)
+🔗 [Click here to view the hosted app](https://plant-disease-detection-v.streamlit.app/)
 
 ---
 
