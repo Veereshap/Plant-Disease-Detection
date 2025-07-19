@@ -1,9 +1,10 @@
-streamlit
 numpy
+pickle-mixin
+streamlit
+seaborn
 pandas
 matplotlib
-seaborn
-scikit-learn
-tensorflow==2.13.0
-keras==2.13.1
-opencv-python-headless
+scikit_learn
+tensorflow
+keras
+opencv_python_headless
